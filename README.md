@@ -85,9 +85,11 @@ The dataset includes:
 
 ## Project Files
 - `Zomata_Analysis_Project_Final_Dashboard.xlsx`
+- `zomato data analysis.pbix`
 - `Zomato analysis dashboard.png`
 - `README.md`
 - `Zomato data analysis sql.sql`
+- `Zomato analysis.twbx`
 
 ---
 
