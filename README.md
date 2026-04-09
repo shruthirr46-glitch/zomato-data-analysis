@@ -87,6 +87,7 @@ The dataset includes:
 - `Zomata_Analysis_Project_Final_Dashboard.xlsx`
 - `Zomato analysis dashboard.png`
 - `README.md`
+- `Zomato data analysis sql.sql`
 
 ---
 
